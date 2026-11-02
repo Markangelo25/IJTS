@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ijts.online/sitemap.xml
